@@ -59,6 +59,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
